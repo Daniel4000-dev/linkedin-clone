@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "linkedin-clone",
+			"path": ".."
+		},
+		{
+			"name": "my-app",
+			"path": "../../Desktop/my-app"
+		},
+		{
+			"name": "react",
+			"path": "../../Documents/react"
+		},
+		{
+			"name": "test",
+			"path": "../../Documents/test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "test"
+	}
+}
